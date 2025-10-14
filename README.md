@@ -6,6 +6,7 @@
 
 - 📫 How to reach me: ziqzhu@ucdavis.edu
 - 😄 Pronouns: he/him
+- 👀 [Resume](https://github.com/AlundorZhu/Resume/blob/main/main.pdf)
 <!-- 
 This is a comment 
 - ⚡ Fun fact: ...
